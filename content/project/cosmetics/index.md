@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Circuit Breaker
+summary: A puzzle game where you help a spark avoid glitches and navigate a circuit board. Made solo in 10 days for BigMode Jam 2025.
 tags:
   - NLP
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/JacobOnion/BigMode-Jam-2025
 ---
