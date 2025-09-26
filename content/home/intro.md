@@ -19,6 +19,6 @@ author: admin
 ---
 
 Hi, I'm **Jacob**, a computer science student at the University of Leeds.
-{style="font-size: 1.2rem; background: #077a63; background: linear-gradient(to right, #077a63 0%, #26077a 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #077a63; background: linear-gradient(to right, #077a63 0%, #3f0ad1 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my portfolio below
