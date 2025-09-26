@@ -1,6 +1,6 @@
 ---
 title: Circuit Breaker
-summary: A puzzle game where you help a spark avoid glitches and navigate a circuit board. Made solo in 10 days for BigMode Jam 2025. <br> Tools used: Unity, C#
+summary: A puzzle game where you help a spark avoid glitches and navigate a circuit board. Made solo in 10 days for BigMode Jam 2025. <br> Tools used Unity, C#
 tags:
   - NLP
 date: 2022-01-01
