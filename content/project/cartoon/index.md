@@ -1,5 +1,5 @@
 ---
-title: Nodeloopsss
+title: Nodeloop
 summary: An incremental game inspired by steam game Nodebuster where you get stronger through an expanding skill tree with unique upgrades. Made in 7 days for ShovelJam 2025. <br> Tools used - Unity, C#, WebGL
 tags:
   - CV
