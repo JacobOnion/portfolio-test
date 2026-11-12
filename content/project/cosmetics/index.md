@@ -4,5 +4,5 @@ summary: A puzzle game where you help a spark avoid glitches and navigate a circ
 tags:
   - NLP
 date: 2022-01-01
-external_link: https://github.com/JacobOnion/BigMode-Jam-2025
+external_link: https://gooba140.itch.io/cicruitbreaker
 ---
