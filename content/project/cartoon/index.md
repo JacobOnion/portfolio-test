@@ -4,5 +4,5 @@ summary: An incremental game inspired by steam game Nodebuster where you get str
 tags:
   - CV
 date: 2022-01-01
-external_link: https://github.com/JacobOnion/Nodeloop
+external_link: https://gooba140.itch.io/nodeloop
 ---
