@@ -1,6 +1,6 @@
 ---
 title: Conveyor Crusher
-summary: An arcade-style game about crushing fruit, developed with vfx and game-feel at the forefront. Made solo in 72 hours for GMTK Jam 2025. <br> Tools used - Unity, C#, WebGL
+summary: An arcade-style game about crushing fruit, developed with vfx and game-feel at the forefront. Made solo in 96 hours for GMTK Jam 2025. <br> Tools used - Unity, C#, WebGL
 tags:
 date: 2022-01-01
 external_link: https://gooba140.itch.io/conveyer-crusher
