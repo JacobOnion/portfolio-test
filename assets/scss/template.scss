@@ -99,6 +99,12 @@ ul.network-icon .big-icon {
   }
 }
 
+@media (min-width: 769px) { // Just added
+  .home-section.wg-portfolio .project-card .card {
+    margin-right: 12px;
+  }
+}
+
 // Custom avatar size on homepage
 .avatar {
   width: auto;
