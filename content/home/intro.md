@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hi, I'm **Jacob**, a computer science student at the University of Leeds.
+Hi, I'm **Jacob**, a Graphics programmer studying for an MSc in High Performance Graphics at the University of Leeds, graduating June 2027. I build graphics simulations and gameplay systems in C++ and Unity.
 {style="font-size: 1.2rem; background: #077a63; background: linear-gradient(to right, #0cb391ff 0%, #3f0ad1 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my portfolio below.
