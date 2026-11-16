@@ -10,6 +10,10 @@ body {
   border-radius: 15px;
 }
 
+.project-card {
+  width: calc(50% - 10px);
+}
+
 .dark .article-container {
   background-color: rgb(31, 39, 51);
 }
